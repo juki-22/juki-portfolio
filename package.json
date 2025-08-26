@@ -1,9 +1,9 @@
 {
-  "name": "my-portfolio",
+  "name": "juki-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://juki-22.github.io/my-portfolio/",
+  "homepage": "https://juki-22.github.io/juki-portfolio/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
