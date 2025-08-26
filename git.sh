@@ -2,8 +2,8 @@
 
 git add .
 git commit -m "Fix deploy"
-git pull --force
-git push -u origin main
+git pull
+git push
 
 # FRIST TIME
 # echo "# juki-portfolio" >> README.md
