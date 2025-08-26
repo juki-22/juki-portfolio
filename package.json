@@ -3,12 +3,12 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/juki-22/my-portfolio/",
+  "homepage": "https://juki-22.github.io/my-portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d  "
   },
   "dependencies": {
     "antd": "^5.3.3",
