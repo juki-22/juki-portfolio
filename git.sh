@@ -2,6 +2,7 @@
 
 git add .
 git commit -m "Fix deploy"
+git pull
 git push -u origin main
 
 # FRIST TIME
