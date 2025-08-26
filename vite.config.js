@@ -20,5 +20,5 @@ export default defineConfig({
     },
   },
   plugins: [react()],
-  base: '/my-portfolio/',
+  base: '/my-portfolio',
 });
