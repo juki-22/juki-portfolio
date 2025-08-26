@@ -4,6 +4,7 @@ import { defineConfig } from "vite";
 
 // https://vitejs.dev/config/
 export default defineConfig({
+
   build: {
     sourcemap: false,
   },
@@ -19,5 +20,6 @@ export default defineConfig({
     },
   },
   plugins: [react()],
+  base: '/my-portfolio/', // 👈 this is important
   // base:"resume"
 });

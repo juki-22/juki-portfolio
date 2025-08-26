@@ -30,7 +30,7 @@ const newTheme = {
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/my-portfolio">
       <ConfigProvider locale={thTH} theme={newTheme}>
         <App />
       </ConfigProvider>
