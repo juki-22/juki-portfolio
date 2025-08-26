@@ -20,6 +20,5 @@ export default defineConfig({
     },
   },
   plugins: [react()],
-  base: '/my-portfolio/', // 👈 this is important
-  // base:"resume"
+  base: '/my-portfolio/',
 });
